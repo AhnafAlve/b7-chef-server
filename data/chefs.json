@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "John Smith",
+        "experience": "10 years",
+        "numchefs": 50,
+        "likes": 1000,
+        "chefPicture": "https://st2.depositphotos.com/1158045/6326/i/950/depositphotos_63268837-stock-photo-smiling-chef-in-kitchen.jpg",
+        "details": "John Smith is a highly experienced chef with 10 years of culinary expertise. He has successfully led a team of 50 chefs and gained a wide range of skills and knowledge in the field. With 1000 likes, John has established a strong reputation for his exceptional culinary creations."
+    },
+    {
+        "id": 2,
+        "name": "Maria Rodriguez",
+        "experience": "15 years",
+        "numchefs": 75,
+        "likes": 1200,
+        "chefPicture": "https://st3.depositphotos.com/9881890/17718/i/450/depositphotos_177186116-stock-photo-chef-holding-plate-fried-vegetables.jpg",
+        "details": "Maria Rodriguez is a highly skilled chef with 15 years of experience in the culinary industry. She has overseen a team of 75 chefs, showcasing her leadership abilities. Maria's creations have garnered 1200 likes, reflecting her talent and dedication to the art of cooking."
+    },
+    {
+        "id": 3,
+        "name": "David Lee",
+        "experience": "8 years",
+        "numchefs": 40,
+        "likes": 800,
+        "chefPicture": "https://static5.depositphotos.com/1003434/514/i/600/depositphotos_5147838-stock-photo-attractive-smiling-cook.jpg",
+        "details": "David Lee brings 8 years of culinary experience to the table. With a team of 40 chefs under his guidance, he has developed a deep understanding of various cooking techniques. David's dishes have earned 800 likes, highlighting his ability to deliver exceptional flavors."
+    },
+    {
+        "id": 4,
+        "name": "Emily Johnson",
+        "experience": "12 years",
+        "numchefs": 60,
+        "likes": 1500,
+        "chefPicture": "https://st3.depositphotos.com/12039478/16200/i/600/depositphotos_162009832-stock-photo-young-man-cooking.jpg",
+        "details": "Emily Johnson boasts a remarkable 12 years of experience as a chef. She has successfully managed a team of 60 chefs, showcasing her organizational skills. Emily's culinary creations have amassed 1500 likes, a testament to her ability to deliver extraordinary taste experiences."
+    },
+    {
+        "id": 5,
+        "name": "Alex Nguyen",
+        "experience": "6 years",
+        "numchefs": 30,
+        "likes": 500,
+        "chefPicture": "https://st2.depositphotos.com/1158045/6326/i/950/depositphotos_63268837-stock-photo-smiling-chef-in-kitchen.jpg",
+        "details": "Alex Nguyen has honed his skills as a chef for 6 years, developing a strong foundation in culinary arts. With a team of 30 chefs, he has gained valuable experience in teamwork and coordination. Alex's creations have garnered 500 likes, reflecting his ability to create delectable dishes."
+    },
+    {
+        "id": 6,
+        "name": "Sophia Kim",
+        "experience": "5 years",
+        "numchefs": 25,
+        "likes": 300,
+        "chefPicture": "https://img.freepik.com/premium-photo/professional-chef-man-white_200074-3623.jpg",
+        "details": "Sophia Kim is a talented chef who has spent 5 years perfecting her culinary craft. With a team of 25 chefs, she has learned the importance of precision and attention to detail. Sophia's dishes have garnered 300 likes, showcasing her ability to create visually appealing and delicious meals."
+    }
+]
