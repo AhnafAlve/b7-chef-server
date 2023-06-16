@@ -8,14 +8,19 @@ app.use(cors());
 const chefs = require('./data/chefs.json');
 
 app.get('/', (req, res) => {
-    res.send('Chef is running....')
+  res.send('Chef is running....');
 });
 
 app.get('/chefs', (req, res) => {
-    res.send(chefs); 
-})
+  res.send(chefs);
+});
+
+app.get('/chefs/:id', (req, res) => {
+  const id = parseInt(req.params.id); 
+  const selectedChef = chefs.find((chef) => chef.id === id);
+  res.send(selectedChef);
+});
 
 app.listen(port, () => {
-    console.log(`Dragon is runnig on port: ${port}`);
-})
-
+  console.log(`Dragon is running on port: ${port}`);
+});
