@@ -16,11 +16,11 @@ app.get('/chefs', (req, res) => {
 });
 
 app.get('/chefs/:id', (req, res) => {
-  const id = parseInt(req.params.id); 
+  const id = parseInt(req.params.id);
   const selectedChef = chefs.find((chef) => chef.id === id);
   res.send(selectedChef);
 });
 
 app.listen(port, () => {
-  console.log(`Dragon is running on port: ${port}`);
+  console.log(`Chef is running on port: ${port}`);
 });
