@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "name": "Maria Rodriguez",
+        "name": "Dominique Creen",
         "experience": "15 years",
         "numchefs": 75,
         "likes": 1200,
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "name": "Emily Johnson",
+        "name": "Thomas Keller ",
         "experience": "12 years",
         "numchefs": 60,
         "likes": 1500,
@@ -46,7 +46,7 @@
     },
     {
         "id": 6,
-        "name": "Sophia Kim",
+        "name": "Daniel Boulud",
         "experience": "5 years",
         "numchefs": 25,
         "likes": 300,
